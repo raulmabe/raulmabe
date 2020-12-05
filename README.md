@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I am Raul Mabe👋
+
+- 💻 Software Engineer / Full-stack developer
+- 💙 Tools I enjoy using: Flutter, libGDX, Vuejs, Reactjs
+- 🔭 I’m interested in app, web and game dev!
+- 🏀 Sports: Basketball & Surf
+- 🐣 I love animals! Dogs and cats rock af
+
 
 <!--
 **Rahuvich/Rahuvich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
