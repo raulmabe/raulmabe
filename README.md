@@ -1,7 +1,7 @@
 ### Hi there, I am Raul Mabe👋
 
 - 💻 Software Engineer / Full-stack developer
-- 💙 Tools I enjoy using: Flutter, libGDX, Vuejs, Reactjs
+- 💙 Tools I enjoy using: Flutter, libGDX, Vuejs, Nextjs
 - 🔭 I’m interested in app, web and game dev!
 - 🏀 Sports: Basketball & Surf
 - 🐣 I love animals! Dogs and cats rock af
